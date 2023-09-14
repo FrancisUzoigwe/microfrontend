@@ -7,6 +7,7 @@ const MainPage = () => {
         <div className="pl-7">
           <div className="mt-6 text-white font-semibold text-2xl ">
             Get in touch{" "}
+      
           </div>
           <div className="text-sm text-white mt-[10px]">
             Want to get in touch? We'd love to hear from you. Here's <br /> how
